@@ -203,7 +203,7 @@ setting it to the target value.
 <a name="1">[1]</a> Yarkoni et. al. Multi-car paint shop optimization with quantum annealing, 
 [arxiv](https://arxiv.org/pdf/2109.07876.pdf)
 
-<a name="2">[2]</a> https://docs.dwavesys.com/docs/latest/c_gs_9.html#transformations-between-ising-and-qubo
+<a name="2">[2]</a> https://docs.dwavequantum.com/en/latest/quantum_research/qubo_ising.html#ising-qubo-transformations
 
 ## License
 
